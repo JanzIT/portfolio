@@ -1,5 +1,5 @@
 ```markdown
-🚀 **Personal Portfolio**
+🚀 **Renan Janz´s Personal Portfolio**
 
 Modern portfolio website built with React, TailwindCSS and interactive animations
 
@@ -95,10 +95,10 @@ This project is open source and available under the MIT License.
 
 ### 📞 Contact
 
-Your Name – @yourusername  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: Your LinkedIn  
-🌐 Portfolio: your‑portfolio.vercel.app  
+Renan Janz Hargreaves Vieira
+📧 Email: janzhv.it@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/janzhv/ 
+🌐 Portfolio: (Ongoing) 
 
 ⭐ If this project helped you, please consider giving it a star!  
 
