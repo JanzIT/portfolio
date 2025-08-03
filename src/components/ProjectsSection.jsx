@@ -26,7 +26,7 @@ const projects = [
     title: "Career Finding App",
     description:
       "Mobile-First Career-matching MERN app that maps user skills to tech roles with a custom learning roadmap.",
-    image: "public/projects/findit.png",
+    image: "/projects/findit.png",
     tags: ["Next.js", "Node.js", "JWT"],
     demoUrl: "https://b4f-findit.vercel.app/auth",
     githubUrl: "https://github.com/JanzIT/B4F-Projeto-Final-Grupo-4",
